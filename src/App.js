@@ -4,7 +4,7 @@ import Formulario from './components/formulario/formulario'
 function App() {
   return (
     <>
-    <Formulario/>
+    <Formulario titulo="login"/>
     </>
   )
 }
